@@ -1,6 +1,6 @@
 # Static E-commerce Web Application
 
-Hosted on AWS S3 instructions:
+## Hosted on AWS S3 instructions:
 
 npm run build
 
